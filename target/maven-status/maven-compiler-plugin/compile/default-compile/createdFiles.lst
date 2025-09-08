@@ -1,6 +1,0 @@
-ai\examin\keycloak\client\KeycloakSpiClient.class
-ai\examin\keycloak\listeners\UserSyncEventListenerFactory.class
-ai\examin\keycloak\dto\KeycloakEvent.class
-ai\examin\keycloak\dto\TokenResponse.class
-ai\examin\keycloak\listeners\UserSyncEventListener.class
-ai\examin\keycloak\listeners\UserSyncEventListener$1.class
